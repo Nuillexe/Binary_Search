@@ -11,7 +11,7 @@ public class Main {
     public static int searchPositionName(String[]array,String name, int left, int right){
         int mid;
         mid=(right+left)/2;
-        System.out.printf("L:%d\tR:%d\tmid:%d\n",left,right,mid);
+        //System.out.printf("L:%d\tR:%d\tmid:%d\n",left,right,mid);
         // This print statement displays the values of the variables left, right, and mid, which are essential for
         // understanding the algorithm's behavior.
 
